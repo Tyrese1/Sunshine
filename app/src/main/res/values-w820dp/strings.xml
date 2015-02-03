@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_units_label" />
+    <string name="pref_units_key" />
+    <string name="pref_units_metric" />
+    <string name="pref_units_imperial" />
+</resources>
